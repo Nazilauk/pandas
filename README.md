@@ -4,9 +4,9 @@
 This project demonstrates how to select data from a dataset using pandas library. It shows different ways of selecting rows and columns and how to sort the data based on a variable. Pandas provides many powerful data manipulation functions, which makes it easy to perform data selection and manipulation tasks.
 
 ## Table of Contents:
-- Installation
-- Usage
-- Credits
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
 
 ## Installation:
 1. Download and install Anaconda distribution of Python
@@ -87,6 +87,6 @@ We use iloc method to select 10th row with all columns.
 
 ![Pandas](https://github.com/Nazilauk/pandas/assets/127387087/054d9775-0a94-4dbe-b92b-0d46a78ede16)
 
-## Credits:
+### Credits:
 This project was created by Nazila Zadeh
 
